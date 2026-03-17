@@ -30,5 +30,7 @@ Model Performance:
 - Confusion Matrix
 
 How to run:
+
 pip install pandas scikit-learn scipy
+
 python Main.py
