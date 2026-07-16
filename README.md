@@ -43,6 +43,14 @@ pip install pandas numpy scikit-learn scipy
 python Main.py
 ```
 
+## Sample Output
+
+<img width="657" height="641" alt="image" src="https://github.com/user-attachments/assets/12f1a1d9-186c-4012-82ff-6ab8519c8e47" />
+
+<img width="697" height="415" alt="image" src="https://github.com/user-attachments/assets/cd8d0263-e3e6-4723-8f08-e3b6e3cb3577" />
+
+
+
 ## Dataset
 
 The model is trained on a labeled fake review dataset containing genuine and deceptive product reviews. The dataset is preprocessed before feature extraction and model training.
